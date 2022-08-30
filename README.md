@@ -3,9 +3,9 @@
 <p align="center">
 
 <img width="500" alt="belu" align="center" src="https://user-images.githubusercontent.com/80724668/187347941-99e4be46-11fa-4fcf-bb4e-e95a538e149c.png">
-<p> 
+<p> BELU </p>
 </p>
-<p align="center">I'm a React Native Developer from Uruguay.<br/>I really enjoy visual stuff and aimations.<br> Fun fact about me: My surname actually means "stone" (like the one inside the peach). <br></p><br/>
+<p align="center">I'm a React Native Developer from Uruguay.<br/>I really enjoy visual stuff and animations.<br> Fun fact about me: My surname actually means "stone" (like the one inside the peach). <br></p><br/>
 
 <!--
 *
