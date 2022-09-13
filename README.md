@@ -6,8 +6,6 @@
 
 </p>
 
-<p align="center">I'm a React Native Developer from Uruguay.<br/>I really enjoy visual stuff and animations.<br> Fun fact about me: My surname actually means "stone" (like the one inside the peach). <br></p><br/>
-
 <!--
 *
 
