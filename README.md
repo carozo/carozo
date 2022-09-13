@@ -3,8 +3,7 @@
 <p align="center">
 
 <img width="500" alt="belu" align="center" src="https://user-images.githubusercontent.com/80724668/188247370-84bb465f-b476-4f5b-a58f-4bda07dce38d.png">
-
-</p>
+<p align="center">I'm a React Native Developer from Uruguay. </p><br/>
 
 <!--
 *
