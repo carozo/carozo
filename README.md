@@ -7,7 +7,7 @@
 <p align="center">
 
 
-<p align="center">I'm a React & React Native Developer from Uruguay. </p><br/>
+<p align="center">I'm a Software Developer from Uruguay. </p><br/>
 
 <!--
 *![Sin título1 2](https://github.com/carozo/carozo/assets/80724668/c8bb19d5-fe78-4eba-b782-907d5761d5dc)
